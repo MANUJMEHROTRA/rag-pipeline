@@ -1,0 +1,29 @@
+[
+    {
+        "question": "What are the delivery options available?",
+        "answer": "We offer standard, express, and same-day delivery options.",
+        "category": "Shipping",
+        "tags": ["delivery", "shipping", "options"],
+        "created_at": "2024-06-20T10:00:00Z",
+        "updated_at": "2024-06-20T10:00:00Z",
+        "faq_id": 1
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "You can track your order using the tracking number provided in the confirmation email.",
+        "category": "Order Tracking",
+        "tags": ["order", "tracking", "status"],
+        "created_at": "2024-06-20T10:01:00Z",
+        "updated_at": "2024-06-20T10:01:00Z",
+        "faq_id": 2
+    },
+    {
+        "question": "What is the return policy?",
+        "answer": "You can return any product within 30 days of purchase if it meets our return criteria.",
+        "category": "Returns",
+        "tags": ["return", "policy", "refund"],
+        "created_at": "2024-06-20T10:02:00Z",
+        "updated_at": "2024-06-20T10:02:00Z",
+        "faq_id": 3
+    }
+]
